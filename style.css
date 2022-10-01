@@ -1,0 +1,15 @@
+
+body {
+    margin: 0px;
+}
+.navbar_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+    background-color: rgb(49,52,60);
+
+}
+.navbar_brand {
+    color: rgb(223, 228, 243)
+    background-color:rgb(red, green, blue)
+}
